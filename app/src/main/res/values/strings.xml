@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Airport Ticket Reservation</string>
+    <string name="create_account">Create Account</string>
+    <string name="reserve_seat">Reserve Seat</string>
+    <string name="cancel_reservation">Cancel Reservation</string>
+    <string name="manage_system">Manager System Log-in</string>
+    <string name="title_activity_create">CreateActivity</string>
+    <string name="title_activity_reserve_seat">ReserveSeat</string>
+    <string name="title_activity_cancel_reservation">CancelReservation</string>
+    <string name="title_activity_manage_system">ManageSystem</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="okay">Okay</string>
+    <string name="search_flight">Flight Search</string>
+    <string name="departure">Departure</string>
+    <string name="arrival">Arrival</string>
+    <string name="ticket_total">Tickets</string>
+    <string name="title_activity_system_logs">SystemLogs</string>
+    <string name="title_activity_choose_flight">ChooseFlight</string>
+    <string name="title_activity_confirm_seat_reservation">ConfirmSeatReservation</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="create_flight">Create new flight?</string>
+    <string name="title_activity_new_flight">NewFlight</string>
+    <string name="flight_number">Flight Number</string>
+    <string name="departure_time">Departure Time</string>
+    <string name="flight_capacity">Flight Capacity</string>
+    <string name="price">Price</string>
+    <string name="add_flight">Add Flight</string>
+    <string name="Next">Next</string>
+    <string name="confirmationLogIn">Log-in to confirm seat</string>
+    <string name="Search">Search</string>
+
+</resources>
